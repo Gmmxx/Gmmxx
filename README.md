@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Gmmxx
+- 👀 I’m interested in computer hardwares and a bit of software(s)
+- 🌱 I’m currently learning c++
